@@ -1,2 +1,2 @@
-Print 'Hi!'
-print 'Hello World!'
+Print 'Hi!';
+print 'Hello World!';
